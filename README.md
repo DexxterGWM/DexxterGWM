@@ -12,22 +12,7 @@
 
 <br/>
 
-# <div align="center">Connect with me</div>
-
-<div align="center">
-<a href="https://www.instagram.com/dexxter.gwm" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/DexxterGWM" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/gabriel-walujko-monteiro-915b61229/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-</div>
-
-<br/>
+# <div align="center">Skills</div>
 
 <div align="center">
 <table><tr><td valign="top" width="33%">
@@ -56,6 +41,23 @@
 </div>
 
 </td></tr></table>  
+</div>
+
+<br/>
+
+# <div align="center">Connect with me</div>
+
+<div align="center">
+<a href="https://www.instagram.com/dexxter.gwm" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/DexxterGWM" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/gabriel-walujko-monteiro-915b61229/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
 </div>
 
 <br/>
