@@ -26,11 +26,6 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dexxtergwm&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -57,3 +52,10 @@
 </div>
 
 </td></tr></table>  
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=dexxtergwm&&style=flat-square" align="center" />
+</div>
