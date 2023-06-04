@@ -67,8 +67,10 @@
 
 # <div align="center">Stargazers👀</div>
 
-- ⭐Stars from the last [repository](https://github.com/DexxterGWM/004.To.100-Python) posted:
+- ⭐[Repository](https://github.com/DexxterGWM/001.To.100-Python) famous of stars from [Users/Contributors](https://github.com/DexxterGWM/001.To.100-Python/stargazers):
 
 <div align="center">
-<img src="https://reporoster.com/stars/DexxterGWM/004.To.100-Python" alt="Stargazers repo roster for @DexxterGWM/004.To.100-Python">
+<img src="https://reporoster.com/stars/DexxterGWM/001.To.100-Python" alt="Stargazers repo roster for @DexxterGWM/001.To.100-Python">
 </div>
+
+### <div align="center">Thank you all!</div>
