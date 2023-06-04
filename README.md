@@ -1,20 +1,15 @@
-<!--
-<div align="center">
-<img src="" align="center" height="325" /> -- future...
-</div>
--->
-
-# <div align="center">Python Programmer</div>
+# <div align="center">Python Programmer🐍</div>
 
 - 📚 I’m currently studying Higher Technology in Systems Analysis and Development and intensifying knowledge in Python.
-- 🏗 All of my projects are available at [here](https://github.com/DexxterGWM?tab=repositories)
-- ✉️ You can reach me at [here](mailto:thedexxter.gandc@gmail.com)
+- 🏗 All of my projects are available at [here](https://github.com/DexxterGWM?tab=repositories)!
+- ✉️ You can reach me at [here](mailto:thedexxter.gandc@gmail.com)!
 
 <br/>
 
-# <div align="center">Skills</div>
+# <div align="center">Skills👨🏻‍💻</div>
 
 <div align="center">
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -27,7 +22,7 @@
 </td><td valign="top" width="33%">
 
 ### Backend  
-<div align="center">  
+<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 </div>
@@ -41,13 +36,15 @@
 </div>
 
 </td></tr></table>  
+
 </div>
 
 <br/>
 
-# <div align="center">Connect with me</div>
+# <div align="center">Connect with me👇🏻</div>
 
 <div align="center">
+
 <a href="https://www.instagram.com/dexxter.gwm" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -65,3 +62,11 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dexxtergwm&&style=flat-square" align="center" />
 </div>
+
+<br/>
+
+# <div align="center">Stargazers👀</div>
+
+- ⭐Stars from the last repository posted:
+
+[![Stargazers repo roster for @DexxterGWM/004.To.100-Python](https://reporoster.com/stars/DexxterGWM/004.To.100-Python)](https://github.com/DexxterGWM/004.To.100-Python/stargazers)
