@@ -69,4 +69,6 @@
 
 - ⭐Stars from the last [repository](https://github.com/DexxterGWM/004.To.100-Python) posted:
 
-[![Stargazers repo roster for @DexxterGWM/004.To.100-Python](https://reporoster.com/stars/DexxterGWM/004.To.100-Python)](https://github.com/DexxterGWM/004.To.100-Python/stargazers)
+<div align="center">
+<img src="https://reporoster.com/stars/DexxterGWM/004.To.100-Python" alt="Stargazers repo roster for @DexxterGWM/004.To.100-Python">
+</div>
