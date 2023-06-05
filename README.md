@@ -80,6 +80,10 @@
 
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows">
 
+```diff
++ More?!
+```
+
 </div>
   
 </td></tr></table>  
@@ -120,44 +124,17 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DexxterGWM&theme=transparent" />
 </a>
 
+<br/>
+
 <a href="https://github.com/DexxterGWM">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexxterGWM&langs_count=6&layout=compact&line_height=30&locale=pt-br&theme=tokyonight&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexxterGWM&langs_count=4&layout=compact&line_height=30&locale=pt-br&theme=tokyonight&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5">
 </a>
 
 </details>
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
 <!--
-```diff
               (`.          ,-,
               ` `.     ,;' /
                ` .  ,'/ .'
@@ -172,7 +149,4 @@
      `._  , '   /_
         ; ,''-,;' ``-
          ``-..__``--`
-```
 -->
-
-</div>
