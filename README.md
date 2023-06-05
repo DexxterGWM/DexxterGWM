@@ -8,7 +8,8 @@
 
 <br/><br/>
 
-# <div align="center">Connect with me👇🏻</div>
+### <div align="center">Connect with me👇🏻</div>
+# 
 
 <br/>
 
@@ -32,11 +33,11 @@
 <img src="https://komarev.com/ghpvc/?username=dexxtergwm&&style=flat-square" align="center" />
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
-# <div align="center">Skills👨🏻‍💻</div>
+### <div align="center">Skills👨🏻‍💻</div>
 
-<br/>
+<p align="center"><a href="https://github.com/DexxterGWM#"><img src="https://reporoster.com/images/hr.png" alt="Separation bar" width="100%"/></a></p>
 
 <div align="center">
 
@@ -87,7 +88,8 @@
 
 <br/><br/>
 
-# <div align="center">GitHub account details🧐</div>
+### <div align="center">GitHub account details🧐</div>
+# 
 
 <br/>
 
