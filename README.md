@@ -34,18 +34,6 @@
 
 <br/><br/>
 
-# <div align="center">Stargazers👀</div>
-
-<br/>
-
-- ⭐[Repository](https://github.com/DexxterGWM/001.To.100-Python) famous of stars from [Users/Contributors](https://github.com/DexxterGWM/001.To.100-Python/stargazers):
-
-<div align="center">
-<img src="https://reporoster.com/stars/DexxterGWM/001.To.100-Python" alt="Stargazers repo roster for @DexxterGWM/001.To.100-Python">
-</div>
-
-<br/><br/>
-
 # <div align="center">Skills👨🏻‍💻</div>
 
 <br/>
@@ -97,14 +85,30 @@
 
 </div>
 
+<br/><br/>
 
+# <div align="center">GitHub account details🧐</div>
 
+<br/>
 
+- ⭐[Repository](https://github.com/DexxterGWM/001.To.100-Python) famous of stars from [Users/Contributors](https://github.com/DexxterGWM/001.To.100-Python/stargazers):
 
+<div align="center">
+<img src="https://reporoster.com/stars/DexxterGWM/001.To.100-Python" alt="Stargazers repo roster for @DexxterGWM/001.To.100-Python">
+</div>
 
+<br/>
 
-
-
-
-
-
+<details>
+<p align="center">
+  <a href="https://github.com/DexxterGWM">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexxterGWM&theme=transparent" />
+  </a>
+  <a href="https://github.com/DexxterGWM">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DexxterGWM&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/DexxterGWM">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DexxterGWM&theme=transparent" />
+  </a>
+</p>
+</details>
