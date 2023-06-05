@@ -88,7 +88,7 @@
 
 <br/><br/>
 
-### <div align="center">GitHub account details🧐</div>
+### <div align="center">GitHub Account details🧐</div>
 # 
 
 <br/>
