@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://giffiles.alphacoders.com/120/120209.gif" width="40%" height="70%"/>
+<a href="https://reaperbugs.pwnsdx.com/index"><img src="https://giffiles.alphacoders.com/120/120209.gif" width="40%" height="70%"/></a>
 </div>
 
 ### <div align="center">Python Programmer🐍</div>
@@ -35,13 +35,13 @@
 
 <div align="center">
 <div><img src="https://komarev.com/ghpvc/?username=dexxtergwm&&style=flat-square" /></div>
-<div><img src="https://giffiles.alphacoders.com/120/120213.gif" width="20%" /></div>
+<div><a href="https://pranx.com/windows-xp-simulator/"><img src="https://giffiles.alphacoders.com/120/120213.gif" width="20%" /></a></div>
 </div>
 
 <br/><br/><br/>
 
 <div align="center">
-<img src="https://thumbs.gfycat.com/BigheartedOldfashionedGelding-size_restricted.gif" />
+<a href="https://geektyper.com/fsociety/"><img src="https://thumbs.gfycat.com/BigheartedOldfashionedGelding-size_restricted.gif" /></a>
 </div>
 
 ### <div align="center">Skills👨🏻‍💻</div>
