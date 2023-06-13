@@ -1,11 +1,4 @@
 <div align="center">
-
-<!-- <img src="https://media.tenor.com/x7yqGgoS_lIAAAAC/detrew-hacker.gif" /> -->
-<!-- <img src="https://giffiles.alphacoders.com/120/120141.gif" /> -->
-
-</div>
-
-<div align="center">
 <img src="https://giffiles.alphacoders.com/120/120209.gif" width="40%" height="70%"/>
 </div>
 
@@ -41,13 +34,14 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dexxtergwm&&style=flat-square" align="center" />
+<div><img src="https://komarev.com/ghpvc/?username=dexxtergwm&&style=flat-square" /></div>
+<div><img src="https://giffiles.alphacoders.com/120/120213.gif" width="20%" /></div>
 </div>
 
 <br/><br/><br/>
 
 <div align="center">
-<img src="https://giffiles.alphacoders.com/120/120213.gif" width="30%" height="50%" />
+<img src="https://thumbs.gfycat.com/BigheartedOldfashionedGelding-size_restricted.gif" />
 </div>
 
 ### <div align="center">Skills👨🏻‍💻</div>
@@ -147,10 +141,6 @@
 
 </details>
 
-</div>
-
-<div align="center">
-<img src="" />
 </div>
 
 <!--
