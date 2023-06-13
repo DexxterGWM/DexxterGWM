@@ -1,3 +1,14 @@
+<div align="center">
+
+<!-- <img src="https://media.tenor.com/x7yqGgoS_lIAAAAC/detrew-hacker.gif" /> -->
+<!-- <img src="https://giffiles.alphacoders.com/120/120141.gif" /> -->
+
+</div>
+
+<div align="center">
+<img src="https://giffiles.alphacoders.com/120/120209.gif" width="40%" height="70%"/>
+</div>
+
 ### <div align="center">Python Programmer🐍</div>
 
 <p align="center"><a href="https://github.com/DexxterGWM#"><img src="https://reporoster.com/images/hr.png" alt="Separation bar" width="100%"/></a></p>
@@ -34,6 +45,10 @@
 </div>
 
 <br/><br/><br/>
+
+<div align="center">
+<img src="https://giffiles.alphacoders.com/120/120213.gif" width="30%" height="50%" />
+</div>
 
 ### <div align="center">Skills👨🏻‍💻</div>
 
@@ -132,6 +147,10 @@
 
 </details>
 
+</div>
+
+<div align="center">
+<img src="" />
 </div>
 
 <!--
