@@ -22,9 +22,13 @@
 <a href="https://www.instagram.com/dexxter.gwm" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+
+<!--
 <a href="https://github.com/DexxterGWM" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+-->
+
 <a href="https://www.linkedin.com/in/gabriel-walujko-monteiro-915b61229/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -34,7 +38,11 @@
 <br/>
 
 <div align="center">
-<div><img src="https://komarev.com/ghpvc/?username=dexxtergwm&&style=flat-square" /></div>
+<div>
+<a href="https://github.com/DexxterGWM">
+<img src="https://komarev.com/ghpvc/?username=dexxtergwm&&style=flat-square" />
+</a>
+</div>
 <div><a href="https://pranx.com/windows-xp-simulator/"><img src="https://giffiles.alphacoders.com/120/120213.gif" width="20%" /></a></div>
 </div>
 
@@ -55,9 +63,11 @@
 ### <div align="center">Languages</div>
 <div align="center">  
 
+<a href="https://github.com/DexxterGWM">
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql">
+</a>
 
 </div>
 
@@ -66,8 +76,10 @@
 ### <div align="center">ML/DL</div>
 <div align="center">
 
+<a href="https://github.com/DexxterGWM">
 <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas">
 <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy">
+</a>
 
 </div>
 
@@ -76,9 +88,11 @@
 ### <div align="center">Technologies & Frameworks</div>
 <div align="center">  
 
+<a href="https://github.com/DexxterGWM">
 <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django">
 <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5">
 <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">
+</a>
 
 </div>
 
@@ -87,7 +101,9 @@
 ### <div align="center">OS</div>
 <div align="center">
 
+<a href="https://github.com/DexxterGWM">
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows">
+</a>
 
 ```diff
 + More?!
@@ -106,10 +122,12 @@
 
 <br/>
 
-- ⭐[Repository](https://github.com/DexxterGWM/001.To.100-Python) famous of stars from [Users/Contributors](https://github.com/DexxterGWM/001.To.100-Python/stargazers):
+- ⭐[Repository](https://github.com/DexxterGWM/001.To.100-Python) famous of stars from Users/Contributors:
 
 <div align="center">
+<a href="https://github.com/DexxterGWM/001.To.100-Python/stargazers">
 <img src="https://reporoster.com/stars/DexxterGWM/001.To.100-Python" alt="Stargazers repo roster for @DexxterGWM/001.To.100-Python">
+</a>
 </div>
 
 <br/><br/>
