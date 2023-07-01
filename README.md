@@ -1,7 +1,3 @@
-<div align="center">
-<a href="https://reaperbugs.pwnsdx.com/index"><img src="https://giffiles.alphacoders.com/120/120209.gif" width="40%" height="70%"/></a>
-</div>
-
 ### <div align="center">Python Programmer🐍</div>
 
 <p align="center"><a href="https://github.com/DexxterGWM#"><img src="https://reporoster.com/images/hr.png" alt="Separation bar" width="100%"/></a></p>
@@ -130,8 +126,8 @@
 
 <div align="center">
 
-<a href="https://github.com/DexxterGWM/001.To.100-Python/stargazers">
-<img src="https://reporoster.com/stars/DexxterGWM/001.To.100-Python" alt="Repository stargazers">
+<a href="https://github.com/DexxterGWM/011.To.100-Python/stargazers">
+<img src="https://reporoster.com/stars/DexxterGWM/011.To.100-Python" alt="Repository stargazers">
 </a>
 
 <!--
@@ -139,6 +135,19 @@
 <img src="https://reporoster.com/stars/DexxterGWM/001.To.100-Python" alt="🚧 Looks like the @host has an error (or me?*), working on that... [@DexxterGWM/001.To.100-Python] 🚧">
 </a>
 -->
+
+<br/>
+<br/>
+
+<details align="center">
+<summary>👨🏻‍💻Others stargazers</summary>
+
+<br/>
+
+◾ [010.To.100-Python](https://github.com/DexxterGWM/010.To.100-Python) [[Stargazers](https://github.com/DexxterGWM/010.To.100-Python/stargazers)]<p>
+◾ [001.To.100-Python](https://github.com/DexxterGWM/001.To.100-Python) [[Stargazers](https://github.com/DexxterGWM/001.To.100-Python/stargazers)]<p>
+
+</details>
 
 </div>
 
