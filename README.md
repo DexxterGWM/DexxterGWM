@@ -122,19 +122,23 @@
 
 <br/>
 
-<!--
-🚧
 - ⭐[Repository](https://github.com/DexxterGWM/001.To.100-Python) famous of stars from Users/Contributors:
-🚧
--->
 
+<!--
 - ⭐ Repository famous of stars from Users/Contributors:
+-->
 
 <div align="center">
 
 <a href="https://github.com/DexxterGWM/001.To.100-Python/stargazers">
+<img src="https://reporoster.com/stars/DexxterGWM/001.To.100-Python" alt="Repository stargazers">
+</a>
+
+<!--
+<a href="https://github.com/DexxterGWM/001.To.100-Python/stargazers">
 <img src="https://reporoster.com/stars/DexxterGWM/001.To.100-Python" alt="🚧 Looks like the @host has an error (or me?*), working on that... [@DexxterGWM/001.To.100-Python] 🚧">
 </a>
+-->
 
 </div>
 
