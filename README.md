@@ -126,8 +126,8 @@
 
 <div align="center">
 
-<a href="https://github.com/DexxterGWM/011.To.100-Python/stargazers">
-<img src="https://reporoster.com/stars/DexxterGWM/011.To.100-Python" alt="Repository stargazers">
+<a href="https://github.com/DexxterGWM/018.To.100-Python/stargazers">
+<img src="https://reporoster.com/stars/DexxterGWM/018.To.100-Python" alt="Repository stargazers">
 </a>
 
 <!--
@@ -143,7 +143,7 @@
 <summary>👨🏻‍💻Others stargazers</summary>
 
 <br/>
-
+◾ [011.To.100-Python](https://github.com/DexxterGWM/011.To.100-Python) [[Stargazers](https://github.com/DexxterGWM/011.To.100-Python/stargazers)]<p>
 ◾ [010.To.100-Python](https://github.com/DexxterGWM/010.To.100-Python) [[Stargazers](https://github.com/DexxterGWM/010.To.100-Python/stargazers)]<p>
 ◾ [001.To.100-Python](https://github.com/DexxterGWM/001.To.100-Python) [[Stargazers](https://github.com/DexxterGWM/001.To.100-Python/stargazers)]<p>
 
