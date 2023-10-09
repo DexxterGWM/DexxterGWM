@@ -143,10 +143,14 @@
 <summary>👨🏻‍💻Others stargazers</summary>
 
 <br/>
-[011.To.100-Python](https://github.com/DexxterGWM/011.To.100-Python) <!-- [[Stargazers](https://github.com/DexxterGWM/011.To.100-Python/stargazers)]<p> -->
-[010.To.100-Python](https://github.com/DexxterGWM/010.To.100-Python) <!-- [[Stargazers](https://github.com/DexxterGWM/010.To.100-Python/stargazers)]<p> -->
-[001.To.100-Python](https://github.com/DexxterGWM/001.To.100-Python) <!-- [[Stargazers](https://github.com/DexxterGWM/001.To.100-Python/stargazers)]<p> -->
-◾ 
+
+🚧 Fixing... 🚧
+<!-- 
+[011.To.100-Python](https://github.com/DexxterGWM/011.To.100-Python) [[Stargazers](https://github.com/DexxterGWM/011.To.100-Python/stargazers)]<p>
+[010.To.100-Python](https://github.com/DexxterGWM/010.To.100-Python) [[Stargazers](https://github.com/DexxterGWM/010.To.100-Python/stargazers)]<p>
+[001.To.100-Python](https://github.com/DexxterGWM/001.To.100-Python) [[Stargazers](https://github.com/DexxterGWM/001.To.100-Python/stargazers)]<p>
+-->
+
 </details>
 
 </div>
