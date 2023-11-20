@@ -1,6 +1,6 @@
 ### <div align="center">Python Programmer🐍</div>
 
-<p align="center"><a href="https://github.com/DexxterGWM#"><img src="https://reporoster.com/images/hr.png" alt="Separation bar" width="100%"/></a></p>
+<!-- <p align="center"><a href="https://github.com/DexxterGWM#"><img src="https://reporoster.com/images/hr.png" alt="Separation bar" width="100%"/></a></p> -->
 
 - 📚 I’m currently studying Higher Technology in Systems Analysis and Development and intensifying knowledge in Python.
 - 🏗 All of my projects are available at [here](https://github.com/DexxterGWM?tab=repositories)!
