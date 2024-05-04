@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua">
 </a>
 
 </div>
@@ -47,7 +48,7 @@
 ### <div align="center">OS</div>
 <div align="center">
 <a href="https://github.com/DexxterGWM">
-<img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows">
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux">
 </a>
 </div>
   
