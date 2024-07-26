@@ -56,40 +56,6 @@
 
 </div>
 
-<br/><br/>
-
-### <div align="center">GitHub Account details</div>
-# 
-
-<div align="center">
-
-<details align="center">
-<summary>More about Me</summary>
-
-<br/>
-
-<a href="https://github.com/DexxterGWM">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexxterGWM&theme=transparent" />
-</a>
-
-<a href="https://github.com/DexxterGWM">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DexxterGWM&hide_border=true&card_width=338&theme=transparent" />
-</a>
-
-<a href="https://github.com/DexxterGWM">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DexxterGWM&theme=transparent" />
-</a>
-
-<br/>
-
-<a href="https://github.com/DexxterGWM">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexxterGWM&langs_count=4&layout=compact&line_height=30&locale=pt-br&theme=tokyonight&border_color=A6A6A6CF&title_color=0094F5&text_color=0094F5C5">
-</a>
-
-</details>
-
-</div>
-
 <br><br>
 
 <div align="center">
