@@ -4,7 +4,7 @@
 <br/>
 
 - 🐍 **Constantly scripting in** _Python_
-- 🔘 **Well-made** _Lua_u_ **Projects**
+- 🔘 **Well-made** _Lua_u_ **scripts**
 <br>
 
 - 🏗 All of my _projects/sources_ are available at [_here_](https://github.com/DexxterGWM?tab=repositories)
@@ -34,7 +34,7 @@
       </td>
       <td valign="top" width="25%">
 
-### <div align="center">ML/DL</div>
+### <div align="center">Librarys</div>
 <div align="center">
           <a href="https://github.com/DexxterGWM">
           <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas">
