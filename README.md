@@ -9,7 +9,15 @@
 
 - 🏗 All of my _projects/sources_ are available at [_here_](https://github.com/DexxterGWM?tab=repositories)
 - ✉️ You can reach me at [_here_](mailto:thedexxtergandc@gmail.com)
+<br/>
 
+### <div align="center">Last Projects</div>
+
+#
+<br/>
+
+  1. [_Script-04.NETSniff_](https://github.com/DexxterGWM/Script-04.NETSniff) - ._py_ script (personal usage)
+  2. [_CDJScritpl-lua_u_](https://github.com/DexxterGWM/CDJScript-lua_u/) - ._lua_ script (Roblox exploit)
 <br/>
 
 ### <div align="center">Skills👨🏻‍💻</div>
