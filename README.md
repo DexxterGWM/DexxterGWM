@@ -17,7 +17,7 @@
 <br/>
 
   1. [_Script-04.NETSniff_](https://github.com/DexxterGWM/Script-04.NETSniff) - ._py_ script (personal usage)
-  2. [_CDJScritpl-lua_](https://github.com/DexxterGWM/CDJScript-lua/) - ._lua_ script (Roblox exploit)
+  2. [*DexxterScripts-lua_u*](https://github.com/DexxterGWM/DexxterScripts-lua_u) - .*lua_u* script (Roblox exploit)
 <br/>
 
 ### <div align="center">Skills👨🏻‍💻</div>
