@@ -47,6 +47,7 @@
           <a href="https://github.com/DexxterGWM">
           <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas">
           <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy">
+          <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django">
           </a>
 </div>
       </td>
