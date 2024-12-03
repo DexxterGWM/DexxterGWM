@@ -11,7 +11,7 @@
 - ✉️ You can reach me at [_here_](mailto:thedexxtergandc@gmail.com)
 <br/>
 
-### <div align="center">Last Projects</div>
+### <div align="center">Latest Projects</div>
 
 #
 <br/>
