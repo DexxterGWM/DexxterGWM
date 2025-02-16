@@ -1,14 +1,16 @@
-### <div align="center">Hey there!👋🏻</div>
+### <div align="center">Hey there, I'm Dexxter!👋🏻</div>
 
 #
 <br/>
 
 - 🐍 **Constantly scripting in** _Python_
 - 🔘 **Well-made** _Lua_u_ **scripts**
+
 <br>
 
-- 🏗 All of my _projects/sources_ are available at [_here_](https://github.com/DexxterGWM?tab=repositories)
-- ✉️ You can reach me at [_here_](mailto:thedexxtergandc@gmail.com)
+- 🏗 **All of my** _projects/sources_ **are available at** [_here_](https://github.com/DexxterGWM?tab=repositories)
+- ✉️ **You can reach me at** [_here_](mailto:thedexxtergandc@gmail.com)
+
 <br/>
 
 ### <div align="center">Latest Projects</div>
@@ -16,8 +18,8 @@
 #
 <br/>
 
-  1. [_Script-04.NETSniff_](https://github.com/DexxterGWM/Script-04.NETSniff) - ._py_ script (personal usage)
-  2. [*DexxterScripts-lua_u*](https://github.com/DexxterGWM/DexxterScripts-lua_u) - .*lua_u* script (Roblox exploit)
+  1. [_Script-04.NETSniff_](https://github.com/DexxterGWM/Script-04.NETSniff) - ._py_ script (**personal usage**)
+  2. [*DexxterScripts-lua_u*](https://github.com/DexxterGWM/DexxterScripts-lua_u) - .*lua_u* script (**Roblox exploit**)
 <br/>
 
 ### <div align="center">Skills👨🏻‍💻</div>
@@ -32,32 +34,26 @@
 
 ### <div align="center">Languages</div>
 <div align="center">
-          <a href="https://github.com/DexxterGWM">
-          <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
-          <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
-          <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql">
-          <img src="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua">
-          </a>
+          <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python"></a>
+          <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"></a>
+          <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql"></a>
+          <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua"></a>
 </div>
       </td>
       <td valign="top" width="25%">
 
-### <div align="center">Librarys</div>
+### <div align="center">Python librarys</div>
 <div align="center">
-          <a href="https://github.com/DexxterGWM">
-          <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas">
-          <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy">
-          <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django">
-          </a>
+          <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas"></a>
+          <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy"></a>
+          <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django"></a>
 </div>
       </td>
       <td valign="top" width="25%">
 
 ### <div align="center">OS</div>
 <div align="center">
-          <a href="https://github.com/DexxterGWM">
-          <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux">
-          </a>
+          <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/Arch_Linux-black?style=for-the-badge&logo=ArchLinux"></a>
 </div>
       </td>
     </tr>
