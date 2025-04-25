@@ -65,6 +65,12 @@
 <br/>
 
 <div align="center">
+  
+  ![snake gif](https://github.com/DexxterGWM/DexxterGWM/blob/output/github-snake-dark.svg)
+  
+</div>
+
+<div align="center">
   <a href="https://github.com/DexxterGWM">
     <img src="https://komarev.com/ghpvc/?username=DexxterGWM&&style=flat-square"/>
   </a>
