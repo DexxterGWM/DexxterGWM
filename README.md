@@ -1,31 +1,36 @@
-### <div align="center">Hey there, I'm Dexxter!👋🏻</div>
+### <div align="center">Hey there, I'm Dexxter! 👋🏻</div>
 
-#
+---
 <br/>
 
-- 🐍 **Constantly scripting in** _Python_
-- 🔘 **Well-made** _Lua_u_ **scripts**
+<div align="center">
+  
+🐍 **Constantly scripting in** _Python_!
+<br/>
+🔘 **Well-made** _Lua_u_ **scripts**!
 
-<br>
+</div>
+
+<br/><br/>
 
 - 🏗 **All of my** _projects/sources_ **are available at** [_here_](https://github.com/DexxterGWM?tab=repositories)
 - ✉️ **You can reach me at** [_here_](mailto:thedexxtergandc@gmail.com)
 
 <br/>
 
-### <div align="center">Lastest Projects</div>
+### <div align="center">Lastest Projects ⚒️</div>
 
 #
 <br/>
 
   1. [_Script-04.NETSniff_](https://github.com/DexxterGWM/Script-04.NETSniff) - ._py_ script (**personal usage**)
-  2. [*DexxterScripts-lua_u*](https://github.com/DexxterGWM/DexxterScripts-lua_u) - .*lua_u* script (**Roblox exploit**)
+  2. [*DexxterScripts-lua_u*](https://github.com/DexxterGWM/DexxterScripts-lua_u) - .*lua_u* script (**pulic Roblox exploit**)
   
 <br/>
 
-### <div align="center">Skills👨🏻‍💻</div>
+### <div align="center">Skills 👨🏻‍💻</div>
 
-#
+---
 <br/>
 
 <div align="center">
