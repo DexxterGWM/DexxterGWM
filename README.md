@@ -13,13 +13,14 @@
 
 <br/>
 
-### <div align="center">Latest Projects</div>
+### <div align="center">Lastest Projects</div>
 
 #
 <br/>
 
   1. [_Script-04.NETSniff_](https://github.com/DexxterGWM/Script-04.NETSniff) - ._py_ script (**personal usage**)
   2. [*DexxterScripts-lua_u*](https://github.com/DexxterGWM/DexxterScripts-lua_u) - .*lua_u* script (**Roblox exploit**)
+  
 <br/>
 
 ### <div align="center">Skills👨🏻‍💻</div>
@@ -54,6 +55,7 @@
 ### <div align="center">OS</div>
 <div align="center">
           <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/Arch_Linux-black?style=for-the-badge&logo=ArchLinux"></a>
+          <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows"></a>
 </div>
       </td>
     </tr>
