@@ -24,7 +24,7 @@
 <br/>
 
   1. [_Script-04.NETSniff_](https://github.com/DexxterGWM/Script-04.NETSniff) - ._py_ script (**personal usage**)
-  2. [*DexxterScripts-lua_u*](https://github.com/DexxterGWM/DexxterScripts-lua_u) - .*luaú* script (**public exploit**)
+  2. [*DexxterScripts-lua_u*](https://github.com/DexxterGWM/DexxterScripts-lua_u) - .*luau* script (**public exploit**)
   
 <br/>
 
