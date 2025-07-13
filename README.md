@@ -5,9 +5,9 @@
 
 <div align="center">
   
-🐍 **Constantly scripting in** _Python_!
+🐍 **Constantly probably programming in** _Python_!
 <br/>
-🔘 **Well-made** _Lua_u_ **scripts**!
+🔘 **Well-made** _Luau_ **exploits**!
 
 </div>
 
