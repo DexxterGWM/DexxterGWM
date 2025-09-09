@@ -5,9 +5,9 @@
 
 <div align="center">
   
-🐍 **Constantly probably programming in** _Python_!
+🐍 **Constantly programming in** _Python_!
 <br/>
-🔘 **Well-made** _Luau_ **exploits**!
+🔘 **Well-made** _Luau_ **Exploits**!
 
 </div>
 
@@ -23,8 +23,8 @@
 #
 <br/>
 
-  1. [_Script-04.NETSniff_](https://github.com/DexxterGWM/Script-04.NETSniff) - ._py_ script (**personal usage**)
-  2. [*DexxterScripts-lua_u*](https://github.com/DexxterGWM/DexxterScripts-lua_u) - .*luau* script (**public exploit**)
+  1. [_Script-04.NETSniff_](https://github.com/DexxterGWM/Script-04.NETSniff) - ._py_ Script (**personal usage**)
+  2. [*DexxterScripts-lua_u*](https://github.com/DexxterGWM/DexxterScripts-lua_u) - .*luau* Script (**public Exploit**)
   
 <br/>
 
