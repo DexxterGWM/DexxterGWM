@@ -19,11 +19,12 @@
    - Development of backend features related to authentication, data persistence, and inter-application communication
    - Use of Git and GitHub for version control and project development lifecycle management
    - Planning, implementation, and maintenance of software solutions focused on process automation and web applications
+
+  <br/><br/>
+  
+  Have a question, idea, or just a conversation to share? [Get in touch](mailto:dexxter.gwm@gmail.com)
+
 </div>
-
-<br/><br/>
-
-Have a question, idea, or just a conversation to share? [Get in touch](mailto:dexxter.gwm@gmail.com)
 
 <br/><br/>
 
@@ -139,7 +140,7 @@ Have a question, idea, or just a conversation to share? [Get in touch](mailto:de
   </div>
 </div>
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="50%">
 
 ### <div align="center">Virtualization & related</div>
 <hr/>
