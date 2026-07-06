@@ -147,7 +147,7 @@ Have a question, idea, or just a conversation to share? [Get in touch](mailto:de
 <div>
   <div align='center'>
     <!-- docker --> 
-    <a href='https://github.com/DexxterGWM'><img src='https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql'></a>
+    <a href='https://github.com/DexxterGWM'><img src='https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker'></a>
     <!-- virtualbox -->
     <a href='https://github.com/DexxterGWM'><img src='https://img.shields.io/badge/virtualbox-black?style=for-the-badge&logo=virtualbox'></a>
   </div>
