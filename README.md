@@ -42,7 +42,7 @@
 
 <br/>
 
-#### Projects with monthly financial returns:
+#### Projects:
 1. [Game exploit](https://github.com/DexxterGWM/DexxterScripts-lua_u)
 
 <br/><br/>
