@@ -20,7 +20,7 @@
    - Use of Git and GitHub for version control and project development lifecycle management
    - Planning, implementation, and maintenance of software solutions focused on process automation and web applications
 
-  <br/><br/>
+  <br/>
   
   Have a question, idea, or just a conversation to share? [Get in touch](mailto:dexxter.gwm@gmail.com)
 
