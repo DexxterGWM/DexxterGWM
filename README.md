@@ -100,6 +100,10 @@
     <!-- flask -->
     <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask"></a>
   </div>
+  <div align="center">
+    <!-- scapy -->
+    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/SCAPY-black?style=for-the-badge&logo=scapy"
+  </div>
 </div>
     </td>
     <td valign="top" width="25%">
