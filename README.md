@@ -14,7 +14,7 @@
 
 <div align="left">
   
-  Key activities:
+  My key activities:
    - Data modeling, implementation of business rules, and integration between services and systems
    - Development of backend features related to authentication, data persistence, and inter-application communication
    - Use of Git and GitHub for version control and project development lifecycle management
