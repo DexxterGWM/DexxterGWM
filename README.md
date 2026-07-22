@@ -36,13 +36,13 @@
 <br/>
 
 #### Professional services:
-1. [Saas management platform](https://github.com/DexxterGWM/saas-management-platform)
-2. [High performance api](https://github.com/DexxterGWM/high-performance-api)
-3. [Realtime collaboration platform](https://github.com/DexxterGWM/realtime-collaboration-platform)
+1. [Saas management platform](https://github.com/DexxterGWM/saas-management-platform) - Built to explore production-ready software architecture, scalable backend development, and modern SaaS engineering practices
+2. [High performance api](https://github.com/DexxterGWM/high-performance-api) - Built to explore high-performance backend architecture, scalable API development, and modern software engineering practices
+3. [Realtime collaboration platform](https://github.com/DexxterGWM/realtime-collaboration-platform) - Built to explore production-ready real-time communication, distributed state synchronization, and modern collaborative application architecture
 
 <br/>
 
-#### Projects:
+#### External Projects:
 1. [Game exploit](https://github.com/DexxterGWM/DexxterScripts-lua_u)
 
 <br/><br/>
