@@ -42,7 +42,7 @@
 
 <br/>
 
-#### External Projects:
+#### External projects:
 1. [Game exploit](https://github.com/DexxterGWM/DexxterScripts-lua_u)
 
 <br/><br/>
