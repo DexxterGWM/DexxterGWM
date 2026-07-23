@@ -1,16 +1,15 @@
 ### <div align="center">@DexxterGWM - [dexxter-gwm.com](https://dexxter-gwm.netlify.app)</div>
 
 ---
-<br/>
-
-
 
 <div align="center">
 
 #### Development of external software solutions for web applications and custom systems.
 </div>
 
-<br/>
+
+
+<br/><br/>
 
 <div align="left">
   
