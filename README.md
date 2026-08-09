@@ -39,11 +39,6 @@
 2. [High performance api](https://github.com/DexxterGWM/high-performance-api) - Built to explore high-performance backend architecture, scalable API development, and modern software engineering practices
 3. [Realtime collaboration platform](https://github.com/DexxterGWM/realtime-collaboration-platform) - Built to explore production-ready real-time communication, distributed state synchronization, and modern collaborative application architecture
 
-<br/>
-
-#### External projects:
-1. [Game exploit](https://github.com/DexxterGWM/DexxterScripts-lua_u)
-
 <br/><br/>
 
 
