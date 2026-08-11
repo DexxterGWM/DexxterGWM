@@ -16,7 +16,6 @@
   My key activities:
    - Data modeling, implementation of business rules, and integration between services and systems
    - Development of backend features related to authentication, data persistence, and inter-application communication
-   - Use of Git and GitHub for version control and project development lifecycle management
    - Planning, implementation, and maintenance of software solutions focused on process automation and web applications
 
   <br/>
@@ -73,6 +72,8 @@
   <div align='center'>
     <!-- lua -->
     <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua"></a>
+    <!-- php -->
+    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php"></a>
   </div>
 </div>
     </td>
