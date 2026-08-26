@@ -152,6 +152,10 @@ i enjoy working on software where engineering decisions matter: how data moves t
   </div>
 </div>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td valign="top" width="25%">
 
 ### <div align="center">.oses</div>
@@ -161,8 +165,34 @@ i enjoy working on software where engineering decisions matter: how data moves t
   <div align="center">
     <!-- archlinux -->
     <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux"></a>
+    <!-- kali linux -->
+    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/kali_linux-black?style=for-the-badge&logo=linux"></a>
     <!-- windows -->
     <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows"></a>
+  </div>
+</div>
+    </td>
+    <td valign="top" width="25%">
+
+### <div align="center">.python_libraries</div>
+<hr/>
+
+<div>
+  <div align="center">
+    <!-- pandas -->
+    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas"></a>
+    <!-- numpy -->
+    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy"></a>
+  </div>
+  <div align="center">
+    <!-- django -->
+    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django"></a>
+    <!-- flask -->
+    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask"></a>
+  </div>
+  <div align="center">
+    <!-- scapy -->
+    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/SCAPY-black?style=for-the-badge&logo=scapy"
   </div>
 </div>
     </td>
