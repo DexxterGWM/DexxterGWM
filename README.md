@@ -1,7 +1,7 @@
 ## <div align="center">@DexxterGWM - [dexxter-gwm.com](https://dexxter-gwm.netlify.app)</div>
 
-<div align="center">
-software engineer and independent developer focused on building web applications, APIs, integrations, automation and custom software systems. <br/>
+<div align="left">
+software engineer and independent developer focused on building web applications, APIs, integrations, automation and custom software systems. <br/><br/>
 i work across frontend and backend development, with an emphasis on practical architecture, maintainable code and software that solves real problems. <br/>
 </div>
 
@@ -22,7 +22,8 @@ i'm currently working on these software projects:
 <br/>
 
 <div align="center">
-i enjoy working on software where engineering decisions matter: how data moves through a system, how applications behave under real-world conditions. my goal is not simply to make software work, but to build systems that are understandable, maintainable and capable of evolving, and, no less importantly: transform ideas into real softwares.
+i enjoy working on software where engineering decisions matter: how data moves through a system, how applications behave under real-world conditions. <br/><br/>
+my goal is not simply to make software work, but to build systems that are understandable, maintainable and capable of evolving, and, no less importantly: transform ideas into real softwares. <br/>
 </div>
 
 <br/>
