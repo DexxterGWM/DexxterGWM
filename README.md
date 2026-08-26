@@ -20,13 +20,15 @@ i'm currently working on these software projects:
 * [high performance api](https://github.com/dexxtergwm/high-performance-api)
 * [realtime collaboration platform](https://github.com/dexxtergwm/realtime-collaboration-platform)
 
-###### you can also check out my [public repos](https://github.com/dexxtergwm/?tab=repositories), which contains those who are worth to me, and, possibly to you - the public.
-
 <br/>
 
 <div align="center">
 i enjoy working on software where engineering decisions matter: how data moves through a system, how applications behave under real-world conditions. my goal is not simply to make software work, but to build systems that are understandable, maintainable and capable of evolving, and, no less importantly: transform ideas into real softwares.
 </div>
+
+<br/>
+
+###### you can also check out my [public repos](https://github.com/dexxtergwm/?tab=repositories), which contains those who are worth to me, and, possibly to you - the public.
     
 
 
