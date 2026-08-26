@@ -1,5 +1,4 @@
-### <div align="center">@DexxterGWM - [dexxter-gwm.com](https://dexxter-gwm.netlify.app)</div>
-#
+## <div align="center">@DexxterGWM - [dexxter-gwm.com](https://dexxter-gwm.netlify.app)</div>
 
 <div align="center">
 software engineer and independent developer focused on building web applications, APIs, integrations, automation and custom software systems. <br/>
