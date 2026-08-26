@@ -130,7 +130,7 @@ i enjoy working on software where engineering decisions matter: how data moves t
     </td>
     <td valign="top" width="25%">
 
-### <div align="center">.infrastructure/div>
+### <div align="center">.infrastructure</div>
 <hr/>
 
 <div>
