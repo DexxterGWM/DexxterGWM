@@ -40,170 +40,111 @@ my goal is not simply to make software work, but to build systems that are under
 
 <br/>
 
-<div align="center">
-  
-<table>
-  <tr>
-    <td valign="top" width="25%">
 
-### <div align="center">.frontend</div>
-<hr/>
+### <div align="left">.frontend:</div>
 
-<div>
-  <div align="center">
-    <!-- typescript -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript"></a>
-    <!-- javascript -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"></a>
-  </div>
-  <div align="center">
-    <!-- react -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react"></a>
-    <!-- react hook form -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/react_hook_form-black?style=for-the-badge&logo=react_hook_form"></a>
-  </div>
-  <div align="center">
-    <!-- recharts -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/recharts-black?style=for-the-badge&logo=recharts"></a>
-  </div>
+<div style='position:flex;'>
+<!-- typescript -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript"></a>
+<!-- javascript -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"></a>
+<!-- react -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react"></a>
+<!-- react hook form -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/react_hook_form-black?style=for-the-badge&logo=react_hook_form"></a>
+<!-- recharts -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/recharts-black?style=for-the-badge&logo=recharts"></a>
 </div>
-    </td>
-    <td valign="top" width="25%">
 
-### <div align="center">.backend</div>
-<hr/>
+##
 
-<div>
-  <div align="center">
-    <!-- python -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python"></a>
-    <!-- websocket -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=socket.io"></a>
-  </div>
-  <div align="center">
-    <!-- django -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django"></a>
-    <!-- node js -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js"></a>
-  </div>
-  <div align="center">
-    <!-- fastify -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/recharts-black?style=for-the-badge&logo=recharts"></a>
-    <!-- express -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express"></a>
-  </div>
-  <div align="center">
-    <!-- fast api -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/fast_api-black?style=for-the-badge&logo=fastapi"></a>
-    <!-- rest apis -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/rest_api-black?style=for-the-badge&logo=restapi"></a>
-  </div>
+### <div align="left">.backend:</div>
+
+<div style='position:flex;'>
+<!-- python -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python"></a>
+<!-- websocket -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=socket.io"></a>
+<!-- django -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django"></a>
+<!-- node js -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js"></a>
+<!-- fastify -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/recharts-black?style=for-the-badge&logo=recharts"></a>
+<!-- express -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express"></a>
+<!-- fast api -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/fast_api-black?style=for-the-badge&logo=fastapi"></a>
+<!-- rest apis -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/rest_api-black?style=for-the-badge&logo=restapi"></a>
 </div>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td valign="top" width="25%">
-      
-### <div align="center">.databases | .devops</div>
-<hr/>
 
-<div>
-  <div align='center'>
-    <!-- postgresl --> 
-    <a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql'></a>
-    <!-- mysql -->
-    <a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql'></a>
-  </div>
-  <div align="center">
-    <!-- mongodb --> 
-    <a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb'></a>
-    <!-- redis --> 
-    <a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis'></a>
-  </div>
-  <div align="center">
-    <!-- git -->
-    <a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/git-black?style=for-the-badge&logo=git'></a>
-  </div>
+##
+
+### <div align="left">.databases | .devops:</div>
+
+<div style='position:flex;'>
+<!-- postgresl --> 
+<a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql'></a>
+<!-- mysql -->
+<a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql'></a>
+<!-- mongodb --> 
+<a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb'></a>
+<!-- redis --> 
+<a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis'></a>
+<!-- git -->
+<a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/git-black?style=for-the-badge&logo=git'></a>
 </div>
-    </td>
-    <td valign="top" width="25%">
 
-### <div align="center">.infrastructure</div>
-<hr/>
+##
 
-<div>
-  <div align='center'>
-    <!-- docker --> 
-    <a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker'></a>
-    <!-- git -->
-    <a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/git-black?style=for-the-badge&logo=git'></a>
-  </div>
-  <div align='center'>
-    <!-- github actions --> 
-    <a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/github%20actions-black?style=for-the-badge&logo=github-actions'></a>
-    <!-- nginx -->
-    <a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx'></a>
-  </div>
-  <div align='center'>
-    <!-- open api --> 
-    <a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/open_api-black?style=for-the-badge&logo=fastapi'></a>
-  </div>
+### <div align="left">.infrastructure:</div>
+
+<div style='position:flex;'>
+<!-- docker --> 
+<a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker'></a>
+<!-- git -->
+<a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/git-black?style=for-the-badge&logo=git'></a>
+<!-- github actions --> 
+<a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/github%20actions-black?style=for-the-badge&logo=github-actions'></a>
+<!-- nginx -->
+<a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx'></a>
+<!-- open api --> 
+<a href='https://github.com/dexxtergwm'><img src='https://img.shields.io/badge/open_api-black?style=for-the-badge&logo=fastapi'></a>
 </div>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td valign="top" width="25%">
 
-### <div align="center">.oses</div>
-<hr/>
+##
 
-<div>
-  <div align="center">
-    <!-- archlinux -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux"></a>
-    <!-- kali linux -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/kali_linux-black?style=for-the-badge&logo=linux"></a>
-    <!-- windows -->
-    <a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows"></a>
-  </div>
-</div>
-    </td>
-    <td valign="top" width="25%">
+### <div align="left">.oses:</div>
 
-### <div align="center">.python_libraries</div>
-<hr/>
+<div style='position:flex;'>
+<!-- archlinux -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux"></a>
+<!-- kali linux -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/kali_linux-black?style=for-the-badge&logo=linux"></a>
+<!-- windows -->
+<a href="https://github.com/dexxtergwm"><img src="https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows"></a>
 
-<div>
-  <div align="center">
-    <!-- pandas -->
-    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas"></a>
-    <!-- numpy -->
-    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy"></a>
-  </div>
-  <div align="center">
-    <!-- django -->
-    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django"></a>
-    <!-- flask -->
-    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask"></a>
-  </div>
-  <div align="center">
-    <!-- scapy -->
-    <a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/SCAPY-black?style=for-the-badge&logo=scapy"
-  </div>
-</div>
-    </td>
-  </tr>
-</table>
+##
 
+### <div align="left">.python_libraries:</div>
+
+<div style='position:flex;'>
+<!-- pandas -->
+<a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas"></a>
+<!-- numpy -->
+<a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy"></a>
+<!-- django -->
+<a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django"></a>
+<!-- flask -->
+<a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask"></a>
+<!-- scapy -->
+<a href="https://github.com/DexxterGWM"><img src="https://img.shields.io/badge/SCAPY-black?style=for-the-badge&logo=scapy"></a>
 </div>
 
 
 
-<br/><br/>
+<br/><br/><br/>
 
 
 
