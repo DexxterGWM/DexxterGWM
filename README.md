@@ -18,6 +18,7 @@ i'm currently working on these software projects:
 * [saas management platform](https://github.com/dexxtergwm/saas-management-platform)
 * [high performance api](https://github.com/dexxtergwm/high-performance-api)
 * [realtime collaboration platform](https://github.com/dexxtergwm/realtime-collaboration-platform)
+* [python utilities](https://github.com/dexxtergwm/python-utilities)
 
 <br/>
 
