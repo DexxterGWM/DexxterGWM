@@ -155,7 +155,7 @@ my goal is not simply to make software work, but to build systems that are under
 <br/>
 
 * website: [dexxter-gwm.com](https://dexxter-gwm.vercel.app/en-US/)
-* portfolio: [dexxter-gwm.com/portfolio](https://dexxter-gwm.com/en-us/portfolio/)
+* contact: [dexxter-gwm.com/contact](https://dexxter-gwm.com/en-us/contact/)
 * instagram: [dexxter.gwm](https://instagram.com/dexxter.gwm/)
 * facebook: [dexxter.gwm](https://facebook.com/dexxter.gwm/)
 
