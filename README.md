@@ -18,7 +18,7 @@ i'm currently working on these software projects:
 * [saas management platform](https://github.com/dexxtergwm/saas-management-platform), [saas management platform in java](https://github.com/dexxtergwm/saas-management-platform_java)
 * [high performance api](https://github.com/dexxtergwm/high-performance-api)
 * [realtime collaboration platform](https://github.com/dexxtergwm/realtime-collaboration-platform)
-* Network acanner, from [python utilities](https://github.com/dexxtergwm/python-utilities)
+* Network Scanner, from [python utilities](https://github.com/dexxtergwm/python-utilities)
 
 <br/>
 
