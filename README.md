@@ -15,7 +15,7 @@ i work across frontend and backend development, with an emphasis on practical ar
 ## <div align="center">->currently building</div>
 
 i'm currently working on these software projects:
-* [saas management platform](https://github.com/dexxtergwm/saas-management-platform), [saas management platform in java](https://github.com/dexxtergwm/saas-management-platform_java)
+* [saas management platform](https://github.com/dexxtergwm/saas-management-platform), and [saas management platform in java](https://github.com/dexxtergwm/saas-management-platform_java)
 * [high performance api](https://github.com/dexxtergwm/high-performance-api)
 * [realtime collaboration platform](https://github.com/dexxtergwm/realtime-collaboration-platform)
 * Network Scanner, from [python utilities](https://github.com/dexxtergwm/python-utilities)
